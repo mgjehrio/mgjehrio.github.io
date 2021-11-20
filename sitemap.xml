@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/About%20Me/</loc>
+<lastmod>2021-11-16T21:40:08-05:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+<lastmod>2021-01-18T17:01:15-05:00</lastmod>
+</url>
+<url>
+<loc>/posts/</loc>
+<lastmod>2021-01-18T17:01:15-05:00</lastmod>
+</url>
+<url>
+<loc>/Art/</loc>
+<lastmod>2021-11-16T22:20:33-05:00</lastmod>
+</url>
+<url>
+<loc>/Art/first_working_model/</loc>
+<lastmod>2020-11-21T22:00:22-05:00</lastmod>
+</url>
+<url>
+<loc>/Blog_comment_flag/</loc>
+<lastmod>2021-05-05T23:50:54-04:00</lastmod>
+</url>
+<url>
+<loc>/Projects/</loc>
+<lastmod>2021-11-20T00:11:52-05:00</lastmod>
+</url>
+<url>
+<loc>/Publications/</loc>
+<lastmod>2021-11-17T00:39:54-05:00</lastmod>
+</url>
+</urlset>
